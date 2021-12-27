@@ -25,7 +25,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         int string, fret;
         cin >> string >> fret;
-        // cout << i << "\t" << n << endl;
 
         switch (string) {
             case 1:
